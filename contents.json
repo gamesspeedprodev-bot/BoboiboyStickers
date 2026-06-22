@@ -2,7 +2,7 @@
   "android_play_store_link": "",
   "ios_app_store_link": "",
   "sticker_packs": [
-     {
+    {
       "identifier": "BoboboiCore",
       "name": "1",
       "publisher": "1",
@@ -15,7 +15,6 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-
         { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
         { "image_file": "2.webp", "emojis": ["😄", "😀"] },
         { "image_file": "3.webp", "emojis": ["😆", "😂"] },
@@ -28,10 +27,9 @@
         { "image_file": "10.webp", "emojis": ["😭", "💧"] },
         { "image_file": "11.webp", "emojis": ["😭", "💧"] },
         { "image_file": "12.webp", "emojis": ["😭", "💧"] }
-        
       ]
     },
-         {
+    {
       "identifier": "BoboboiCore2",
       "name": "2",
       "publisher": "2",
@@ -56,12 +54,9 @@
         { "image_file": "22.webp", "emojis": ["😭", "💧"] },
         { "image_file": "23.webp", "emojis": ["😭", "💧"] },
         { "image_file": "24.webp", "emojis": ["😭", "💧"] }
-       
-        
       ]
     },
-
-             {
+    {
       "identifier": "Boboiboy1",
       "name": "3",
       "publisher": "3",
@@ -89,12 +84,9 @@
         { "image_file": "13.webp", "emojis": ["😭", "💧"] },
         { "image_file": "14.webp", "emojis": ["😭", "💧"] },
         { "image_file": "15.webp", "emojis": ["😭", "💧"] }
-      
-        
       ]
     },
-
-           {
+    {
       "identifier": "Boboiboy2",
       "name": "4",
       "publisher": "4",
@@ -110,27 +102,22 @@
         { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
         { "image_file": "2.webp", "emojis": ["😄", "😀"] },
         { "image_file": "3.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "4.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "5.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "6.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "7.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "8.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "9.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "10.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "11.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "12.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "13.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "14.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "15.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "16.webp", "emojis": ["😆", "😂"] },
-         { "image_file": "17.webp", "emojis": ["😆", "😂"] }
-        
-     
-        
+        { "image_file": "4.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "5.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "6.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "7.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "8.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "9.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "10.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "11.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "12.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "13.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "14.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "15.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "16.webp", "emojis": ["😆", "😂"] },
+        { "image_file": "17.webp", "emojis": ["😆", "😂"] }
       ]
     },
-
-    
     {
       "identifier": "Boboiboy3",
       "name": "5",
@@ -190,9 +177,7 @@
         { "image_file": "14.webp", "emojis": ["😆", "😂"] },
         { "image_file": "15.webp", "emojis": ["😆", "😂"] }
       ]
-      
     },
-    
     {
       "identifier": "Boboiboy5",
       "name": "7",
@@ -223,8 +208,6 @@
         { "image_file": "15.webp", "emojis": ["😆", "😂"] }
       ]
     },
-
-    
     {
       "identifier": "Boboiboy6",
       "name": "8",
@@ -254,9 +237,8 @@
         { "image_file": "14.webp", "emojis": ["😘", "🍪"] },
         { "image_file": "15.webp", "emojis": ["😘", "🍪"] }
       ]
-      
- }
-{
+    },
+    {
       "identifier": "Boboiboy7",
       "name": "8",
       "publisher": "8",
@@ -285,13 +267,9 @@
         { "image_file": "29.webp", "emojis": ["😘", "🍪"] },
         { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
       ]
-      
-    }
-    
-   
-{
-    
-     "identifier": "Boboiboy8",
+    },
+    {
+      "identifier": "Boboiboy8",
       "name": "8",
       "publisher": "8",
       "tray_image_file": "tray.png",
@@ -320,12 +298,9 @@
         { "image_file": "30.webp", "emojis": ["😘", "🍪"] },
         { "image_file": "31.webp", "emojis": ["😘", "🍪"] }
       ]
-      
-    }
-    
-       {
-    
-     "identifier": "Boboiboy9",
+    },
+    {
+      "identifier": "Boboiboy9",
       "name": "8",
       "publisher": "8",
       "tray_image_file": "tray.png",
@@ -352,14 +327,10 @@
         { "image_file": "28.webp", "emojis": ["😍", "💑"] },
         { "image_file": "29.webp", "emojis": ["😘", "🍪"] },
         { "image_file": "30.webp", "emojis": ["😘", "🍪"] }
-       
       ]
-      
-    }
-
-{
-    
-     "identifier": "BoboiboyMemez",
+    },
+    {
+      "identifier": "BoboiboyMemez",
       "name": "8",
       "publisher": "8",
       "tray_image_file": "tray.png",
@@ -371,7 +342,6 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        
         { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
         { "image_file": "2.webp", "emojis": ["😄", "😀"] },
         { "image_file": "3.webp", "emojis": ["😆", "😂"] },
@@ -382,12 +352,9 @@
         { "image_file": "8.webp", "emojis": ["😍", "💑"] },
         { "image_file": "9.webp", "emojis": ["😍", "💑"] }
       ]
-      
-    }
-    
+    },
     {
-    
-     "identifier": "Boboiboyfay",
+      "identifier": "Boboiboyfay",
       "name": "8",
       "publisher": "8",
       "tray_image_file": "tray.png",
@@ -399,18 +366,11 @@
       "license_agreement_website": "",
       "is_premium": false,
       "stickers": [
-        
         { "image_file": "1.webp", "emojis": ["☕", "🙂"] },
         { "image_file": "2.webp", "emojis": ["😄", "😀"] },
         { "image_file": "3.webp", "emojis": ["😆", "😂"] },
         { "image_file": "4.webp", "emojis": ["😩", "😰"] }
-      
       ]
-      
     }
-    
-    
-    
-    
   ]
 }
